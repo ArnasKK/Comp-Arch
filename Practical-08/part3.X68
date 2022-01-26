@@ -45,7 +45,7 @@ START:
     SIMHALT             ; halt simulator
 
 * Put variables and constants here
-text dc.b 'Please enter input: ' ,0
+text dc.b 'Please enter your anything: ' ,0
 
     END    START        ; last line of source
 
